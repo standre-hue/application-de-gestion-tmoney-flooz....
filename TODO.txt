@@ -1,0 +1,13 @@
+done clear cache
+done delete transaction
+done solde avertissement
+done revoir les formulaires
+
+done les controlles au niveau des transactions,
+done les warning quand le solde est inferieur a 0
+done revoir le concept retrait depot de tmoney et flooz
+formater les numero de tel
+envoyer un mail pour la creation des comptes d'administrateur
+done changer le mot de pass lors de la premiere connexion
+ajouter les icones ou images des differentes type de transaction
+corriger les icones des liens de navigation
